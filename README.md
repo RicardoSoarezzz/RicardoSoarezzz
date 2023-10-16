@@ -1,5 +1,7 @@
-<h1 align="center"> ![mapa-imperio-romano](https://github.com/RicardoSoarezzz/RicardoSoarezzz/assets/105425605/a9564656-293d-47af-9729-72b934993fca) </h1>
-<h1 align="center">Hi 👋, I'm Ricardo Soares</h1>
+<div align="center">
+  <img src="https://github.com/RicardoSoarezzz/RicardoSoarezzz/assets/105425605/a9564656-293d-47af-9729-72b934993fca" alt="mapa-imperio-romano">
+</div>
+
 
 <h3 align="center">A Software Engineering Student, at Universidade Portucalense, Porto,Portugal</h3>
 
